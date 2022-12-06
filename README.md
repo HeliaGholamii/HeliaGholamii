@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Helia 👋
 
 <!--
 **HeliaGholamii/HeliaGholamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->I am studying software engineering at the moment.
+I'm interested in Deep Learning, Computer Vision and Artificial Intelligence. I'll put my projects based on these topics here.
+- 📫 How to reach me:
+
+   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/heliagholami)
